@@ -1,8 +1,8 @@
 # Dew Smart Link
 
-🌿 **neorg-dew-smartlink** is a minimal, focused [Neorg](https://github.com/nvim-neorg/neorg) extension designed to automatically insert a formatted link using the page title from any URL stored in your clipboard.
+🌿 **Dew Smartlink** is a minimal, focused [Neorg](https://github.com/nvim-neorg/neorg) extension designed to automatically insert a formatted link using the page title from any URL stored in your clipboard.
 
-This module is part of the [neorg-dew](https://github.com/setupyourskills/neorg-dew) ecosystem.
+This module is part of the [Neorg Dew](https://github.com/setupyourskills/neorg-dew) ecosystem.
 
 ## Features
 
@@ -15,7 +15,7 @@ This module is part of the [neorg-dew](https://github.com/setupyourskills/neorg-
 ### Prerequisites
 
 - A functional installation of [Neorg](https://github.com/nvim-neorg/neorg) is required for this module to work.
-- The core module [Neorg-dew](https://github.com/setupyourskills/neorg-dew) must be installed, as it provides essential base libraries.
+- The core module [Neorg Dew](https://github.com/setupyourskills/neorg-dew) must be installed, as it provides essential base libraries.
 
 - Neovim must be compiled with `+clipboard` support.
 - A functional system clipboard (register `+`) is required to read URLs.
