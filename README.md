@@ -1,4 +1,4 @@
-# neorg-dew-smartlink
+# Dew Smart Link
 
 🌿 **neorg-dew-smartlink** is a minimal, focused [Neorg](https://github.com/nvim-neorg/neorg) extension designed to automatically insert a formatted link using the page title from any URL stored in your clipboard.
 
